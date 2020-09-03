@@ -1,10 +1,11 @@
 # money_manager
 
-A new Flutter project.
+Intriguing UI for a Money Management App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Find the apk file in the apk directory.
+Screenshots are available in the screenshots directory.
 
 A few resources to get you started if this is your first Flutter project:
 
